@@ -1,1 +1,1 @@
-# Categories-Sub-Categories-Laravel-App
+# Categories / Sub-Categories (Laravel App)
